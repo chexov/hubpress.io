@@ -5,6 +5,22 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Anton's Enjoyneering Notebook"
+    "name": "anton's enjoyneering notebook"
+  },
+  "urls": {
+    "site": "https://chexov.github.io",
+    "hubpress": "https://chexov.github.io",
+    "theme": "//chexov.github.io/themes/anton's enjoyneering notebook",
+    "images": "https://chexov.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
