@@ -1,0 +1,10 @@
+= /bin/sh arrays using IFS
+
+```
+while IFS=';' read -ra ADDR; do
+# process "$ADDR"
+done <<< "$IN"
+```
+
+:published_at: 2012-04-16
+:hp-tags: shellscript
